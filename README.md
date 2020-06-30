@@ -8,11 +8,14 @@ npm i bootstrap@5.0.0-alpha1
 npm i bootstrap-icons
 
 
-
 # vscode
 live sass compile
 
 
 #webstorm
 
+
+
+###Generate package json
+npm init -y
 
